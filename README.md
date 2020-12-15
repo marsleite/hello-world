@@ -1,3 +1,3 @@
 # hello-world
 The first application !
-the first chanc=ges commits
+the first chancges commits
