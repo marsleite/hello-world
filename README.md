@@ -1,3 +1,3 @@
 # hello-world
 The first application !
-the first chancges commits
+the first changes commits
